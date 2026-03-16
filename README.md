@@ -121,4 +121,4 @@ plt.show()
 
 
 ### Result:
-thus the program executed successfully
+thus the program executed successfully.
